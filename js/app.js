@@ -1,3 +1,3 @@
 // select span
-const date = document.getElementById('date');
+const date = document.getElementById('foot');
 date.innerHTML = new Date().getFullYear();
