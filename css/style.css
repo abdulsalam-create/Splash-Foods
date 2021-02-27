@@ -110,3 +110,39 @@ Variables
   background: var(--clr-primary-1);
   color: #fff;
 }
+.carousel-image-1 {
+  background: url('/images/c3.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+
+.carousel-image-2 {
+  background: url('/images/c1.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+
+.carousel-image-3 {
+  background: url('/images/c2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+.carousel-item {
+  height: 450px;
+}
+.cent2 {
+  margin-bottom: 10rem;
+}
+.cent3 {
+  text-align: center;
+}
+/* .social-icons {
+  display: inline-block;
+} */
+li {
+  display: inline;
+  padding-right: 10px;
+}
